@@ -1,2 +1,24 @@
-# Sanika_Ghate
-Hello there I am Sanika Ghate
+# 💫 About Me:
+<h1 align="center">Hi 👋, I'm Sanika Ghate</h1><br><br><h3 align="center"><br>Aspiring Data Scientist & Data Analyst 📊 | Open to Collaboration 🤝<br></h3><br><br><p align="center"><br>Passionate about transforming data into meaningful insights and continuously learning new technologies in Data Science and Analytics.<br></p><br><br>---<br><br>## 🚀 About Me<br><br>- 🌱 Currently learning **Data Science** and **Data Analytics**<br>- 📚 Exploring **Python, SQL, Power BI, Excel, Pandas, and Machine Learning**<br>- 📊 Interested in **Data Visualization, Business Analytics, and AI**<br>- 🤝 Open to collaborating on **Data Analysis, Dashboards, and Beginner-Friendly Open Source Projects**<br>- 🎯 Working towards becoming a skilled **Data Scientist**<br>- 💡 I enjoy solving real-world problems using data<br><br>---<br><br>## 🛠️ Tech Stack<br><br>### 👨‍💻 Languages & Libraries<br>- Python 🐍<br>- SQL<br>- Pandas<br>- NumPy<br><br>### 📊 Data Visualization & Analytics<br>- Power BI<br>- Tableau<br>- Excel<br>- Matplotlib<br>- Seaborn<br><br>### 📖 Currently Learning<br>- Machine Learning<br>- Statistics<br>- Data Cleaning<br>- Predictive Analytics<br>- Data Storytelling<br><br>---<br><br>## 📂 Projects<br><br>### 📈 Data Analysis Projects<br>- Sales Performance Analysis<br>- Customer Insights Dashboard<br>- Data Cleaning using Python<br><br>### 📊 Dashboard Projects<br>- Power BI Interactive Dashboards<br>- Excel Analytics Reports<br><br>### 🤖 Machine Learning<br>- Beginner Prediction Models<br>- Classification & Regression Practice<br><br>---<br><br>## 🤝 Open for Collaboration<br><br>I’m looking to collaborate on:<br><br>- 📊 Data Analytics Projects<br>- 📈 Dashboard Development<br>- 🐍 Python Data Projects<br>- 🌍 Open Source Beginner Projects<br>- 🤖 Machine Learning Practice Projects<br><br>If you have an interesting project, feel free to connect with me!<br><br>---<br><br>## 📫 Connect With Me<br><br>-<br>- Email: sanikaghate999@gmail.com<br><br>---<br><br>## ⚡ Fun Fact<br><br>> “Data is the new oil, but insights are the real fuel.” 🚀<br><br>---<br><br><p align="center"><br>⭐ Thanks for visiting my profile! ⭐<br></p>
+
+
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/ sanika-ghate-447971274 ) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sanikaghate999@gmail.com) 
+
+# 💻 Tech Stack:
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=SanikaGhate910&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=SanikaGhate910&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=SanikaGhate910&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=SanikaGhate910&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
+[![](https://komarev.com/ghpvc/?username=SanikaGhate910&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
